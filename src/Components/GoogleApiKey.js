@@ -1,0 +1,1 @@
+export const API_KEY = "Place your Google API Key here";
